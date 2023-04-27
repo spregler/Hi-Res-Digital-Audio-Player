@@ -1,2 +1,8 @@
+Serial Data:
+![MISO_Scope](miso.png)
 
-![MISO_Scope](Hi-Res-Digital-Audio-Player/validation/MCU/img/miso.png)
+Word Select
+![SS_Scope](ss.png)
+
+Serial Clock:
+![SCK_Scope](sck.png)
