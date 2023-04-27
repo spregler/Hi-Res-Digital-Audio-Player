@@ -1,8 +1,8 @@
-#Serial Data:  
+# Serial Data:  
 ![MISO_Scope](miso.png)
 
-#Word Select  
+# Word Select  
 ![SS_Scope](ss.png)
 
-#Serial Clock:  
+# Serial Clock:  
 ![SCK_Scope](sck.png)
