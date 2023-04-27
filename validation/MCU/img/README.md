@@ -1,2 +1,2 @@
 
-![view] (../img/miso.png)
+![alt text] (/Hi-Res-Digital-Audio-Player/validation/MCU/img/miso.png)
